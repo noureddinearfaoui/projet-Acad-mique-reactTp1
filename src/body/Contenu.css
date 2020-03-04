@@ -1,0 +1,17 @@
+.fr
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.b,.sr
+{
+  margin-left: 2%;
+}
+.p2
+{
+    margin-top: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+}
